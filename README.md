@@ -1,1 +1,5 @@
 # stock_price_as_proxy_for_industry
+
+### Question to answer: Which industries are prosperous and which are gloomy?
+
+Stock price fluctuation reflects the change of the company's value. By analyzing historical stock price, different companies' price change pattern would provide insights of companies' growth through time. In the long run, stock prices even could be a proxy for industry growth. For instance, Walmart's stock price grew dramatically from 1995 to 2000, from about $11 to about $69, and stayed stable for more than ten years since then; while Amazon's grew extraordinarily since 2000, which was around $133, and still growing nowadays. It is evident that there is competition between these two companies and industries as well. Data of thousands of stocks could help us understand underlying industries relationship, which is not so obvious for us to consider them as a comparison.  Is energy companies value correlated to retail? Technology and manufacture? Finance and recreation? Furthermore, it would be substantially meaningful to predict the industries trend, to answer the question, which industries are prosperous and which are gloomy.
